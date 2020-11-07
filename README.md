@@ -1,3 +1,10 @@
+![crates.io](https://img.shields.io/crates/v/msb128.svg)
+[![Docs badge]][docs.rs]
+[![Build Status](https://travis-ci.com/0xB10C/msb128.svg?branch=main)](https://travis-ci.com/0xB10C/msb128)
+
+[Docs badge]: https://img.shields.io/badge/docs.rs-rustdoc-green
+[docs.rs]: https://docs.rs/msb128/
+
 # msb128
 
 std::io::{Read, Write} **positive**, primitive Rust integers in the Most
