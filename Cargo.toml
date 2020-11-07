@@ -3,10 +3,10 @@ name = "msb128"
 version = "0.1.0"
 authors = ["0xB10C <0xb10c@gmail.com>"]
 edition = "2018"
-description = "std::io::{Read, Write} positive primitive Rust integers in the Most Signigicant Base 128 (MSB128) variable length encoding."
+description = "std::io::{Read, Write} positive primitive Rust integers in the Most Significant Base 128 (MSB128) variable-length encoding."
 repository = "https://github.com/0xB10C/msb128/"
 license = "MIT OR Apache-2.0"
-keywords = ["varint", "msb128", "encoding", "variable-lenght"]
+keywords = ["varint", "msb128", "encoding", "variable-length", "VLQ"]
 categories = ["encoding", "parsing"]
 
 [dependencies]
