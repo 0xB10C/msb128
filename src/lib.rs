@@ -243,7 +243,7 @@ where
     if input < I::zero() {
         return Err(WriteError::Negative);
     }
-    let mut val = input.clone();
+    let mut val = input;
     let mut tmp = std::vec::Vec::new();
     let mut index = 0;
     loop {
